@@ -1,11 +1,11 @@
 fun main()
 {
-    //This is First version
+    //This is Second version
 
-    var number1 = 10
-    var number2= 15
+    var number1 = 25.46
+    var number2 = 77.24
 
-    var result= number1+number2
+    var result = number1+number2
     println(result)
 
 }
